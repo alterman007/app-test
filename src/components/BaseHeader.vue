@@ -11,7 +11,7 @@ export default {};
 <style lang="stylus">
 .header-wrapper {
   width: 100%;
-  height 65px;
+  height 45px;
   position: relative;
   z-index 1;
   .header-content {
