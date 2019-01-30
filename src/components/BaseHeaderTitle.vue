@@ -11,7 +11,8 @@ export default {};
   width: 100%;
   text-align: center;
   margin 0;
-  padding 12px 0;
+  // padding 12px 0;
+  line-height 45px;
   font-weight: normal;
   font-size: 19px;
 }

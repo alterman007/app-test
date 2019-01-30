@@ -18,7 +18,7 @@ export default {};
     position fixed;
     width 100%;
     top 0;
-    padding-top: 20px;
+    // padding-top: 20px;
     background: rgb(67, 137, 228);
     height 45px;
     z-index 1;
